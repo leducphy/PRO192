@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package learnjava;
+package Homework1;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -14,7 +14,7 @@ import javafx.print.Collation;
  *
  * @author PhiLe
  */
-public class LearnJava {
+public class btvn {
 
     /**
      * @param args the command line arguments
@@ -145,8 +145,6 @@ public class LearnJava {
         System.out.println("da sap xep dmm");
     }
 
-    private static int list(int i) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
+    
 
 }
