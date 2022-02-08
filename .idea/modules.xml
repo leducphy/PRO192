@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Homework/Homework.iml" filepath="$PROJECT_DIR$/Homework/Homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaPRO192.iml" filepath="$PROJECT_DIR$/.idea/JavaPRO192.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab1_2/Lab1_2.iml" filepath="$PROJECT_DIR$/Lab1_2/Lab1_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PRO192/PRO192.iml" filepath="$PROJECT_DIR$/PRO192/PRO192.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leducphi/leducphi.iml" filepath="$PROJECT_DIR$/leducphi/leducphi.iml" />
+    </modules>
+  </component>
+</project>
