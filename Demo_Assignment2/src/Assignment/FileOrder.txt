@@ -1,0 +1,2 @@
+Customer ID    Order ID       Name Customer  Product ID     Product Name   Date           Address        Quantity       Price          
+K8K            6BV            HUongNN        WAY            Ga Ran         16/03/2022     NAm DInh       44             4400000.00     

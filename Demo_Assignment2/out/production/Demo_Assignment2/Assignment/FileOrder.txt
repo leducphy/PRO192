@@ -1,0 +1,2 @@
+Customer ID    Order ID       Name Customer  Product ID     Product Name   Date           Address        Quantity       Price          
+5NQ            46W            PhiLD          IL5            Banh Mi        16/03/2022     Vinh Phuc      22             2706.00        
